@@ -5,7 +5,7 @@ Implementation of a Graph Convolutional Network in PyTorch from the paper 'Semi-
 
 # t-SNE visualization
 
-![image](/images/tsne.png)
+
 
 # Training
 
